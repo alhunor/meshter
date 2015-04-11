@@ -1,1 +1,0 @@
-plot [-60:60][-50:50] 'hole.dat' u 1:2:($3-$1):($4-$2) notitle with vectors
